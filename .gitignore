@@ -3,3 +3,4 @@ myenv/
 .streamlit/
 __pycache__/
 *.pyc
+*.keras
