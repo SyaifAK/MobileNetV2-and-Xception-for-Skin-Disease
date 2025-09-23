@@ -5,3 +5,7 @@ This is the result and Interface app
 ![Result](ui.jpg)
 
 Model will detect the skin disease using grad-cam to focused in object of skin disease. The red color indicates a focused model with a disease object that is used for a classification decision, while the blue color does not provide information or is weak in proving that the object is a certain class.
+## 🛠️ Tech Stack
+- Python
+- Streamlit
+- Cnn Mobilenetv2 dan Xception
