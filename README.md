@@ -30,5 +30,4 @@ Skin disease diagnosis can be challenging and time-consuming. This project aims 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/username/skin-disease-classification.git
-cd skin-disease-classification
+git clone https://github.com/SyaifAK/MobileNetV2-and-Xception-for-Skin-Disease.git
